@@ -1,0 +1,289 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Tout ramener au premier plan";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Fenêtre";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Réduire";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Fenêtre";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "Secrets"; ObjectID = "56"; */
+"56.title" = "Secrets";
+
+/* Class = "NSMenu"; title = "Secrets"; ObjectID = "57"; */
+"57.title" = "Secrets";
+
+/* Class = "NSMenuItem"; title = "About Secrets"; ObjectID = "58"; */
+"58.title" = "À propos de Secrets";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Fermer";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Fichier";
+
+/* Class = "NSMenuItem"; title = "New Item..."; ObjectID = "82"; */
+"82.title" = "Nouvel Élément...";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Fichier";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Préférences...";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide Secrets"; ObjectID = "134"; */
+"134.title" = "Cacher Secrets";
+
+/* Class = "NSMenuItem"; title = "Quit Secrets"; ObjectID = "136"; */
+"136.title" = "Quitter Secrets";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Cacher Autres";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Montrer Tout";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "195"; */
+"195.title" = "Arrêter la lecture";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "196"; */
+"196.title" = "Commencer la lecture";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "Copier";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "Tout sélectionner";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "Couper";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "200"; */
+"200.title" = "Orthographe et grammaire";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; */
+"201.title" = "Vérifier le document maintenant";
+
+/* Class = "NSMenuItem"; title = "Move To Trash"; ObjectID = "202"; */
+"202.title" = "Déplacer vers Corbeille";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "Coller";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "204"; */
+"204.title" = "Afficher l´orthographe et la grammaire";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "Édition";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "Annuler";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; */
+"208.title" = "Rechercher le suivant";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; */
+"209.title" = "Rechercher...";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; */
+"210.title" = "Aller à la sélection";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; */
+"211.title" = "Parole";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "212"; */
+"212.title" = "Parole";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "213"; */
+"213.title" = "Rechercher le précédent";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "Rétablir";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "216"; */
+"216.title" = "Orthographe et grammaire";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "Édition";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "218"; */
+"218.title" = "Rechercher";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "219"; */
+"219.title" = "Vérifier l´orthographe lors de la saisie";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "220"; */
+"220.title" = "Rechercher";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "221"; */
+"221.title" = "Rechercher la sélection";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Agrandir/réduire";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "295"; */
+"295.title" = "Présentation";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "296"; */
+"296.title" = "Présentation";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; */
+"346.title" = "Vérifier la grammaire et l´orthographe";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "348"; */
+"348.title" = "Substitutions";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "349"; */
+"349.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "350"; */
+"350.title" = "Copié/Collé intelligent";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "351"; */
+"351.title" = "Guillemets courbes";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "354"; */
+"354.title" = "Liens intelligents";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "450"; */
+"450.title" = "Transformations";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "451"; */
+"451.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "452"; */
+"452.title" = "Mettre en majuscules";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "454"; */
+"454.title" = "Corriger l´orthographe automatiquement";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "457"; */
+"457.title" = "Afficher le substitutions";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "460"; */
+"460.title" = "Tirets intelligents";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; */
+"462.title" = "Remplacement de texte";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "465"; */
+"465.title" = "Mettre en minuscules";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "466"; */
+"466.title" = "Mettre la première lettre en majuscule";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Aide";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Aide";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "534"; */
+"534.title" = "Trouver et Remplacer...";
+
+/* Class = "NSMenuItem"; title = "Import…"; ObjectID = "538"; */
+"538.title" = "Importer...";
+
+/* Class = "NSMenuItem"; title = "Lock"; ObjectID = "6uu-hD-TfD"; */
+"6uu-hD-TfD.title" = "Verrouiller";
+
+/* Class = "NSMenuItem"; title = "Bank Account"; ObjectID = "706-Y8-2qE"; */
+"706-Y8-2qE.title" = "Compte Bancaire";
+
+/* Class = "NSMenuItem"; title = "Credit Card"; ObjectID = "7T2-KF-7tg"; */
+"7T2-KF-7tg.title" = "Carte de Crédit";
+
+/* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "7yl-Tp-iI6"; */
+"7yl-Tp-iI6.title" = "Portefeuille";
+
+/* Class = "NSMenuItem"; title = "RapidoSerial (.csv)"; ObjectID = "DH5-Lv-5BS"; */
+"DH5-Lv-5BS.title" = "RapidoSerial (.csv)";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "HFM-iu-cR7"; */
+"HFM-iu-cR7.title" = "Dupliquer";
+
+/* Class = "NSMenuItem"; title = "Get Support"; ObjectID = "Mzo-ge-a2a"; */
+"Mzo-ge-a2a.title" = "Obtenir de l'Assistance";
+
+/* Class = "NSMenuItem"; title = "Note"; ObjectID = "QVn-Vw-VqW"; */
+"QVn-Vw-VqW.title" = "Note";
+
+/* Class = "NSMenuItem"; title = "Tweaks…"; ObjectID = "QYO-7v-pQn"; */
+"QYO-7v-pQn.title" = "Pansements…";
+
+/* Class = "NSMenuItem"; title = "Logins"; ObjectID = "QaX-2v-0S7"; */
+"QaX-2v-0S7.title" = "Identifications";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "RRy-M9-XDy"; */
+"RRy-M9-XDy.title" = "Nouveau";
+
+/* Class = "NSMenuItem"; title = "Recover"; ObjectID = "RnN-2i-cVZ"; */
+"RnN-2i-cVZ.title" = "Récupérer";
+
+/* Class = "NSMenuItem"; title = "Secrets"; ObjectID = "SXX-zS-KGg"; */
+"SXX-zS-KGg.title" = "Secrets";
+
+/* Class = "NSMenuItem"; title = "Send Feedback…"; ObjectID = "Y6u-rg-boI"; */
+"Y6u-rg-boI.title" = "Envoyer un Commentaire...";
+
+/* Class = "NSMenuItem"; title = "Notes"; ObjectID = "Yn2-yS-0DE"; */
+"Yn2-yS-0DE.title" = "Notes";
+
+/* Class = "NSMenuItem"; title = "Show Detail Pane"; ObjectID = "ZND-De-abP"; */
+"ZND-De-abP.title" = "Montrer le Panneau des Détails";
+
+/* Class = "NSMenuItem"; title = "Copy Alternate"; ObjectID = "ayA-AS-lyN"; */
+"ayA-AS-lyN.title" = "Copie Alternative";
+
+/* Class = "NSMenuItem"; title = "Upgrade Secrets"; ObjectID = "dZV-13-6mE"; */
+"dZV-13-6mE.title" = "Mettre à niveau Secrets";
+
+/* Class = "NSMenuItem"; title = "All Items"; ObjectID = "fze-BH-8rs"; */
+"fze-BH-8rs.title" = "Tous les Éléments";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "gh1-dx-JVA"; */
+"gh1-dx-JVA.title" = "Fenêtre";
+
+/* Class = "NSMenuItem"; title = "Software License"; ObjectID = "l11-AS-LY1"; */
+"l11-AS-LY1.title" = "Licence de Logiciel";
+
+/* Class = "NSMenu"; title = "Import…"; ObjectID = "oJP-pF-Jyg"; */
+"oJP-pF-Jyg.title" = "Importer...";
+
+/* Class = "NSMenuItem"; title = "LastPass (.csv)"; ObjectID = "oiB-eX-LSF"; */
+"oiB-eX-LSF.title" = "LastPass (.csv)";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pJo-5c-2eV"; */
+"pJo-5c-2eV.title" = "Supprimer";
+
+/* Class = "NSMenuItem"; title = "Check for updates…"; ObjectID = "pUf-We-Rbw"; */
+"pUf-We-Rbw.title" = "Vérifier pour mises à jour...";
+
+/* Class = "NSMenuItem"; title = "PasswordWallet (.csv)"; ObjectID = "pvc-ol-DBx"; */
+"pvc-ol-DBx.title" = "PasswordWallet (.csv)";
+
+/* Class = "NSMenuItem"; title = "Login"; ObjectID = "tM2-IN-jNm"; */
+"tM2-IN-jNm.title" = "Identification";
+
+/* Class = "NSMenuItem"; title = "Software Licenses"; ObjectID = "tWp-5f-slc"; */
+"tWp-5f-slc.title" = "Licences de Logiciel";
+
+/* Class = "NSMenuItem"; title = "1Password (.1pif)"; ObjectID = "wLT-5C-aVf"; */
+"wLT-5C-aVf.title" = "1Password (.1pif)";
+
+/* Class = "NSMenu"; title = "New"; ObjectID = "yqt-HH-BYy"; */
+"yqt-HH-BYy.title" = "Nouveau";
+

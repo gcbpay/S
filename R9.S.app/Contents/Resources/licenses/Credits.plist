@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>OpenSSL</string>
+		<key>copyright</key>
+		<string>Copyright (c) 1998-2011 The OpenSSL Project.</string>
+		<key>license</key>
+		<string>OpenSSL</string>
+		<key>license file</key>
+		<string>openssl.txt</string>
+		<key>website</key>
+		<string>https://www.openssl.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RMErrorRecoveryAttempter</string>
+		<key>copyright</key>
+		<string>Copyright (C) 2012 Realmac Software Ltd</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>RMErrorRecoveryAttempter.txt</string>
+		<key>website</key>
+		<string>https://github.com/realmacsoftware/RMErrorRecoveryAttempter</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Quicksilver</string>
+		<key>copyright</key>
+		<string></string>
+		<key>license</key>
+		<string>Apache 2.0</string>
+		<key>license file</key>
+		<string>apache2.txt</string>
+		<key>website</key>
+		<string>https://qsapp.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TransformerKit</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2012 Mattt Thompson (http://mattt.me/)</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>TransformerKit.txt</string>
+		<key>website</key>
+		<string>https://github.com/mattt/TransformerKit</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thrift</string>
+		<key>copyright</key>
+		<string></string>
+		<key>license</key>
+		<string>Apache 2.0</string>
+		<key>license file</key>
+		<string>apache2.txt</string>
+		<key>website</key>
+		<string>https://thrift.apache.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Semver</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013 Andrew Sliwinski</string>
+		<key>license</key>
+		<string>MIT License</string>
+		<key>license file</key>
+		<string>semver.txt</string>
+		<key>website</key>
+		<string>https://github.com/thisandagain/semver</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YRKSpinningProgressIndicator</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2009, Kelan Champagne (http://yeahrightkeller.com)</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>YRKSpinningProgressIndicator.txt</string>
+		<key>website</key>
+		<string>https://github.com/kelan/YRKSpinningProgressIndicator</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>AMRollOverButton</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2004, Andreas Mayer</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>AMRollOverButton.txt</string>
+		<key>website</key>
+		<string>http://www.harmless.de/cocoa-code.php</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MASShortcut</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2012-2013, Vadim Shpakovski</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>MASShortcut.txt</string>
+		<key>website</key>
+		<string>https://github.com/shpakovski/MASShortcut</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>JNWCollectionView</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013 Jonathan Willing</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>JNWCollectionView.txt</string>
+		<key>website</key>
+		<string>https://github.com/jwilling/JNWCollectionView</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>FormatterKit</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2011 Mattt Thompson (http://mattt.me/)</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>FormatterKit.txt</string>
+		<key>website</key>
+		<string>https://github.com/mattt/FormatterKit</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>google-diff-match-patch</string>
+		<key>copyright</key>
+		<string></string>
+		<key>license</key>
+		<string>Apache 2.0</string>
+		<key>license file</key>
+		<string>apache2.txt</string>
+		<key>website</key>
+		<string>https://code.google.com/archive/p/google-diff-match-patch/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>zxcvbn</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2014 Dropbox, Inc.</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>zxcvbn-ios.txt</string>
+		<key>website</key>
+		<string>https://github.com/dropbox/zxcvbn-ios</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>AQ Toolkit</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2009 Jim Dovey</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>aqtoolkit.txt</string>
+		<key>website</key>
+		<string>https://github.com/AlanQuatermain/aqtoolkit</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bolts</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013-present, Facebook, Inc. All rights reserved.</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>Bolts.txt</string>
+		<key>website</key>
+		<string>https://github.com/BoltsFramework/Bolts-ObjC/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BFTask-Extras</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2015 Felix Dumit &lt;felix.dumit@gmail.com&gt;</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>BFTaskExtras.txt</string>
+		<key>website</key>
+		<string>https://github.com/felix-dumit/BFTask-Extras</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>JVFloatLabeledTextField</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013-2015 Jared Verdi</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>JVFloatLabeledTextField.txt</string>
+		<key>website</key>
+		<string>https://github.com/jverdi/JVFloatLabeledTextField</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>InterAppCommunication</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013 Antonio Cabezuelo Vivo (http://tapsandswipes.com)</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>InterAppCommunication.txt</string>
+		<key>website</key>
+		<string>https://github.com/tapsandswipes/InterAppCommunication</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KVOController</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2014, Facebook, Inc. All rights reserved.</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>KVOController.txt</string>
+		<key>website</key>
+		<string>https://github.com/facebook/KVOController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Masonry</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2011-2012 Masonry Team - https://github.com/Masonry</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>Masonry.txt</string>
+		<key>website</key>
+		<string>https://github.com/SnapKit/Masonry</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RBBAnimation</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013 Robert Böhnke.</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>RBBAnimation.txt</string>
+		<key>website</key>
+		<string>https://github.com/robb/RBBAnimation</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RMSharedPreferences</string>
+		<key>copyright</key>
+		<string>Copyright (C) 2012 Realmac Software Ltd</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>RMSharedPreferences.txt</string>
+		<key>website</key>
+		<string>https://github.com/realmacsoftware/RMSharedPreferences</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SwiftyAs</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2014 Tom Adriaenssen</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>SwiftyAs.txt</string>
+		<key>website</key>
+		<string>https://github.com/Inferis/SwiftyAs</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TPKeyboardAvoiding</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2013 Michael Tyson</string>
+		<key>license</key>
+		<string>Zlib</string>
+		<key>license file</key>
+		<string>TPKeyboardAvoiding.txt</string>
+		<key>website</key>
+		<string>https://github.com/michaeltyson/TPKeyboardAvoiding</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>libtar</string>
+		<key>copyright</key>
+		<string>Copyright (c) 1998-2003  University of Illinois Board of Trustees
+Copyright (c) 1998-2003  Mark D. Roth</string>
+		<key>license</key>
+		<string>BSD</string>
+		<key>license file</key>
+		<string>libtar.txt</string>
+		<key>website</key>
+		<string>https://repo.or.cz/libtar.git</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BRSingleLineFormatter</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2005-2006 Michele Balistreri</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>BRSingleLineFormatter.txt</string>
+		<key>website</key>
+		<string>http://briksoftware.com/blog/?p=17</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Laurine</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2015 Jiří Třečák</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>Laurine.txt</string>
+		<key>website</key>
+		<string>http://github.com/JiriTrecak/Laurine</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>QRCodeReaderViewController</string>
+		<key>copyright</key>
+		<string>Copyright (c) 2014-present - Yannick Loriot</string>
+		<key>license</key>
+		<string>MIT</string>
+		<key>license file</key>
+		<string>QRCodeReaderViewController.txt</string>
+		<key>website</key>
+		<string>https://github.com/yannickl/QRCodeReaderViewController</string>
+	</dict>
+</array>
+</plist>

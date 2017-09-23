@@ -1,0 +1,13 @@
+
+/* Class = "NSButtonCell"; title = "Confirm"; ObjectID = "D32-Ze-9J7"; */
+"D32-Ze-9J7.title" = "Confirmar";
+
+/* Class = "NSTextFieldCell"; title = "Searching for a compatible QR Code in open windows"; ObjectID = "Orn-sb-Nf5"; */
+"Orn-sb-Nf5.title" = "Procurando um Código QR compatível nas janelas abertas";
+
+/* Class = "NSTextFieldCell"; title = "Found this code in a Safari window:"; ObjectID = "PSh-r9-ffl"; */
+"PSh-r9-ffl.title" = "Found this code in a Safari window:";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "QS6-FV-Fje"; */
+"QS6-FV-Fje.title" = "Tentar de novo";
+

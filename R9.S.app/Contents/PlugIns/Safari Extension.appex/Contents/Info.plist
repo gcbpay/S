@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>16D32</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Secrets</string>
+	<key>CFBundleExecutable</key>
+	<string>Safari Extension</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.outercorner.osx.Secrets.Safari-Extension</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Safari Extension</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2.5</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>170322.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>8C1002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>16C58</string>
+	<key>DTSDKName</key>
+	<string>macosx10.12</string>
+	<key>DTXcode</key>
+	<string>0821</string>
+	<key>DTXcodeBuild</key>
+	<string>8C1002</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.11</string>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.Safari.extension</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>SafariExtensionHandler</string>
+		<key>SFSafariContentScript</key>
+		<array>
+			<dict>
+				<key>Script</key>
+				<string>loginForms.js</string>
+			</dict>
+			<dict>
+				<key>Script</key>
+				<string>script.js</string>
+			</dict>
+		</array>
+		<key>SFSafariToolbarItem</key>
+		<dict>
+			<key>Action</key>
+			<string>Command</string>
+			<key>Identifier</key>
+			<string>Button</string>
+			<key>Image</key>
+			<string>toolbarIcon.pdf</string>
+			<key>Label</key>
+			<string>Secrets</string>
+		</dict>
+		<key>SFSafariWebsiteAccess</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2016-2017 Outer Corner. All rights reserved.</string>
+	<key>NSHumanReadableDescription</key>
+	<string>Quickly search and fill Logins in Safari via Secrets</string>
+</dict>
+</plist>

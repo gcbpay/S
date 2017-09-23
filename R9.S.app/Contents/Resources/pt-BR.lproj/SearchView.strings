@@ -1,0 +1,64 @@
+
+/* Class = "NSMenuItem"; title = "Bank Account"; ObjectID = "BEs-IU-54r"; */
+"BEs-IU-54r.title" = "Conta Bancária";
+
+/* Class = "NSMenuItem"; title = "Move To Trash"; ObjectID = "DC2-AH-RoI"; */
+"DC2-AH-RoI.title" = "Mover para Lixeira";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "GUV-Og-C4X"; */
+"GUV-Og-C4X.title" = "Copiar";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "JRt-QA-nm5"; */
+"JRt-QA-nm5.title" = "Table View Cell";
+
+/* Class = "NSMenu"; title = "New"; ObjectID = "K71-md-kkC"; */
+"K71-md-kkC.title" = "Novo";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "Qy0-uf-yhu"; */
+"Qy0-uf-yhu.title" = "Apagar";
+
+/* Class = "NSTextFieldCell"; title = "123 456"; ObjectID = "UEb-eA-ekm"; */
+"UEb-eA-ekm.title" = "123 456";
+
+/* Class = "NSTextFieldCell"; title = "GROUP TEXT"; ObjectID = "WW6-Hy-cAY"; */
+"WW6-Hy-cAY.title" = "GROUP TEXT";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "XPK-2Q-Dkd"; */
+"XPK-2Q-Dkd.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "XjM-Jz-AWa"; */
+"XjM-Jz-AWa.title" = "Janela";
+
+/* Class = "NSMenuItem"; title = "New Item..."; ObjectID = "bRJ-Sd-EZK"; */
+"bRJ-Sd-EZK.title" = "Novo Item...";
+
+/* Class = "NSButtonCell"; title = "•••"; ObjectID = "bTc-MK-hQk"; */
+"bTc-MK-hQk.title" = "•••";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "bWn-Ph-AyV"; */
+"bWn-Ph-AyV.title" = "Novo";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "c5T-qP-2lc"; */
+"c5T-qP-2lc.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Recover"; ObjectID = "db8-Co-ajC"; */
+"db8-Co-ajC.title" = "Recuperar";
+
+/* Class = "NSMenuItem"; title = "Note"; ObjectID = "h40-Sr-cpH"; */
+"h40-Sr-cpH.title" = "Nota";
+
+/* Class = "NSMenuItem"; title = "Credit Card"; ObjectID = "hNY-v6-dTI"; */
+"hNY-v6-dTI.title" = "Cartão de Crédito";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "oM6-EG-yqk"; */
+"oM6-EG-yqk.title" = "Duplicar";
+
+/* Class = "NSMenuItem"; title = "Copy Alternate"; ObjectID = "pm9-DX-FlL"; */
+"pm9-DX-FlL.title" = "Copiar Alternativo";
+
+/* Class = "NSMenuItem"; title = "Software License"; ObjectID = "sot-oS-UUn"; */
+"sot-oS-UUn.title" = "Licença de Software";
+
+/* Class = "NSMenuItem"; title = "Login"; ObjectID = "xKt-5V-IBG"; */
+"xKt-5V-IBG.title" = "Login";
+

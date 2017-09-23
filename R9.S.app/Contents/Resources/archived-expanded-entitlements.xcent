@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.icloud-container-identifiers</key>
+	<array>
+		<string>iCloud.com.outercorner.Secrets</string>
+		<string>iCloud.com.outercorner.Secrets.shared-stores</string>
+	</array>
+	<key>com.apple.developer.icloud-services</key>
+	<array>
+		<string>CloudKit</string>
+	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>32HNEEH56A.com.outercorner.SecretsSuite</string>
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>32HNEEH56A.com.outercorner</string>
+		<string>32HNEEH56A.com.outercorner.SecretsSuite</string>
+	</array>
+	<key>com.apple.security.files.downloads.read-only</key>
+	<true/>
+	<key>com.apple.security.files.user-selected.read-write</key>
+	<true/>
+	<key>com.apple.security.network.client</key>
+	<true/>
+	<key>com.apple.security.temporary-exception.apple-events</key>
+	<array>
+		<string>com.apple.safari</string>
+		<string>com.panic.transmit</string>
+		<string>com.google.chrome</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>32HNEEH56A.com.outercorner.osx.Secrets</string>
+		<string>32HNEEH56A.com.outercorner.osx.Secrets.Suite</string>
+	</array>
+</dict>
+</plist>

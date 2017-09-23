@@ -1,0 +1,22 @@
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Confirm passphrase"; ObjectID = "1qh-AD-Os7"; */
+"1qh-AD-Os7.ibShadowedIsNilPlaceholder" = "Confirmar Senha";
+
+/* Class = "NSTextFieldCell"; title = "Choose a passphrase to get started"; ObjectID = "7Gs-oV-9dx"; */
+"7Gs-oV-9dx.title" = "Escolha uma senha para começar";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Passphrase"; ObjectID = "ey0-X4-RgT"; */
+"ey0-X4-RgT.placeholderString" = "Senha";
+
+/* Class = "NSTextFieldCell"; title = "Welcome Paulo"; ObjectID = "ifM-sN-e8i"; */
+"ifM-sN-e8i.title" = "Welcome Paulo";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Confirm passphrase"; ObjectID = "lwV-ed-inc"; */
+"lwV-ed-inc.placeholderString" = "Confirmar Senha";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Passphrase"; ObjectID = "vQs-rq-rjc"; */
+"vQs-rq-rjc.ibShadowedIsNilPlaceholder" = "Senha";
+
+/* Class = "NSTextFieldCell"; title = "Continue"; ObjectID = "xcD-jS-6tv"; */
+"xcD-jS-6tv.title" = "Continuar";
+

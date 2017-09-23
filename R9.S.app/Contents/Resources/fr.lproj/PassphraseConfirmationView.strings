@@ -1,0 +1,13 @@
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "3JO-mu-Dno"; */
+"3JO-mu-Dno.title" = "Retour";
+
+/* Class = "NSTextFieldCell"; title = "Continue with a weak passphrase?"; ObjectID = "RSE-o3-Cho"; */
+"RSE-o3-Cho.title" = "Continuer avec une phrase secrète faible ?";
+
+/* Class = "NSTextFieldCell"; title = "Continue"; ObjectID = "Yym-wH-fCW"; */
+"Yym-wH-fCW.title" = "Continuer";
+
+/* Class = "NSTextFieldCell"; title = "You can always change your passphrase later in Preferences"; ObjectID = "rIh-af-tpT"; */
+"rIh-af-tpT.title" = "Vous pouvez toujours changer votre phrase secrète plus tard dans les Préférences";
+

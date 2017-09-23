@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Not now"; ObjectID = "6cl-6n-xtX"; */
+"6cl-6n-xtX.title" = "Agora não";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to sync via iCloud?"; ObjectID = "H19-Tm-2Op"; */
+"H19-Tm-2Op.title" = "Você deseja sincronizar através do iCloud?";
+
+/* Class = "NSTextFieldCell"; placeholderString = "iCloud passphrase"; ObjectID = "Ka1-lj-mON"; */
+"Ka1-lj-mON.placeholderString" = "Senha do iCloud";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Passphrase"; ObjectID = "OFw-aQ-xRv"; */
+"OFw-aQ-xRv.ibShadowedIsNilPlaceholder" = "Senha";
+
+/* Class = "NSTextFieldCell"; title = "iCloud Sync"; ObjectID = "W7I-L1-ejI"; */
+"W7I-L1-ejI.title" = "iCloud Sync";
+
+/* Class = "NSButtonCell"; title = "Yes, use iCloud Sync"; ObjectID = "rZw-zX-VTM"; */
+"rZw-zX-VTM.title" = "Sim, usar iCloud Sync";
+

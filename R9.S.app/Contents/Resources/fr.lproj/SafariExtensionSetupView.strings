@@ -1,0 +1,16 @@
+
+/* Class = "NSTextFieldCell"; title = "Enabled!"; ObjectID = "7vU-MD-U84"; */
+"7vU-MD-U84.title" = "Activée!";
+
+/* Class = "NSTextFieldCell"; title = "Enable Safari extension?"; ObjectID = "Eev-rX-irg"; */
+"Eev-rX-irg.title" = "Activer notre Extension Safari?";
+
+/* Class = "NSButtonCell"; title = "Enable"; ObjectID = "Pyq-YB-NeZ"; */
+"Pyq-YB-NeZ.title" = "Activer";
+
+/* Class = "NSTextFieldCell"; title = "Enabling the Safari extension alows you to quickly fill Logins in Safari."; ObjectID = "gic-Y1-95v"; */
+"gic-Y1-95v.title" = "Activer notre Extension Safari pour remplir rapidement les Identifications lorsque vous naviguez.";
+
+/* Class = "NSTextFieldCell"; title = "Not now"; ObjectID = "zNT-R4-QgS"; */
+"zNT-R4-QgS.title" = "Pas maintenant";
+

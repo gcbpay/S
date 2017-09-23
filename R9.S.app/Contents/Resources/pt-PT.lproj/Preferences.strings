@@ -1,0 +1,82 @@
+
+/* Class = "NSButtonCell"; title = "Change"; ObjectID = "1G5-me-BgJ"; */
+"1G5-me-BgJ.title" = "Alterar";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "4lY-S5-VcE"; */
+"4lY-S5-VcE.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "BrQ-Ja-dJk"; */
+"BrQ-Ja-dJk.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Df6-FR-iWW"; */
+"Df6-FR-iWW.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Status label"; ObjectID = "FkB-el-0me"; */
+"FkB-el-0me.title" = "Status label";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Current passphrase"; ObjectID = "Gyk-ZP-zcu"; */
+"Gyk-ZP-zcu.ibShadowedIsNilPlaceholder" = "Palavra-passe atual";
+
+/* Class = "NSTextFieldCell"; title = "Type in your current passphrase"; ObjectID = "H4e-ja-Ng0"; */
+"H4e-ja-Ng0.title" = "Insira a sua palavra-passe";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LVh-Kv-i71"; */
+"LVh-Kv-i71.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "RIl-eE-wSQ"; */
+"RIl-eE-wSQ.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "UF7-zu-5Y3"; */
+"UF7-zu-5Y3.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WST-pD-t55"; */
+"WST-pD-t55.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Change Passphrase"; ObjectID = "WeJ-mi-LFs"; */
+"WeJ-mi-LFs.title" = "Alterar palavra-passe";
+
+/* Class = "NSTextFieldCell"; title = "Status label"; ObjectID = "Wl3-ae-DYb"; */
+"Wl3-ae-DYb.title" = "Status label";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "aHo-Xb-LBq"; */
+"aHo-Xb-LBq.title" = "Button";
+
+/* Class = "NSTextFieldCell"; title = "Current Passphrase"; ObjectID = "aaw-ZN-dov"; */
+"aaw-ZN-dov.title" = "Palavra-passe atual";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dbD-H4-q4a"; */
+"dbD-H4-q4a.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Remember to choose a strong passphrase."; ObjectID = "e6C-dy-A7g"; */
+"e6C-dy-A7g.title" = "Opte por uma palavra-passe longa e complexa.";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "etq-yu-xvF"; */
+"etq-yu-xvF.title" = "Table View Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New passphrase"; ObjectID = "f78-Pp-RVU"; */
+"f78-Pp-RVU.ibShadowedIsNilPlaceholder" = "Nova palavra-passe";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fSE-SY-Ze7"; */
+"fSE-SY-Ze7.title" = "Cancelar";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Confirm new passphrase"; ObjectID = "jEa-YK-AHT"; */
+"jEa-YK-AHT.ibShadowedIsNilPlaceholder" = "Confirmar nova palavra-passe";
+
+/* Class = "NSViewController"; title = "Preferences"; ObjectID = "mux-7E-5v2"; */
+"mux-7E-5v2.title" = "Preferências";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "nwT-1k-D8g"; */
+"nwT-1k-D8g.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "okS-fv-AtM"; */
+"okS-fv-AtM.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pZB-vC-5N4"; */
+"pZB-vC-5N4.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "GROUP TEXT"; ObjectID = "urk-6i-mbp"; */
+"urk-6i-mbp.title" = "GROUP TEXT";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Current passphrase"; ObjectID = "wzl-86-srT"; */
+"wzl-86-srT.ibShadowedIsNilPlaceholder" = "Palavra-passe atual";
+

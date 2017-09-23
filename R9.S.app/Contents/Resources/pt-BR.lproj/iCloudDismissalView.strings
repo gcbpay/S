@@ -1,0 +1,13 @@
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "7Xd-tA-epf"; */
+"7Xd-tA-epf.title" = "Voltar";
+
+/* Class = "NSTextFieldCell"; title = "Yes, I'm sure"; ObjectID = "VVX-v7-GYC"; */
+"VVX-v7-GYC.title" = "Sim, tenho certeza";
+
+/* Class = "NSTextFieldCell"; title = "Are you sure?"; ObjectID = "q65-MU-ZW4"; */
+"q65-MU-ZW4.title" = "Você tem certeza?";
+
+/* Class = "NSTextFieldCell"; title = "You can setup iCloud in Preferences later."; ObjectID = "rgE-xO-mfn"; */
+"rgE-xO-mfn.title" = "Você pode configurar o iCloud nas Preferências mais tarde.";
+
